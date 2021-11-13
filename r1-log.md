@@ -7,7 +7,7 @@ Registro do meu desafio #100DaysOfCode. Iniciado em [13 de Novembro, Sábado, 20
 ## Log
 
 ### R1D1 
-Comecei a fazer alguns exercícios do JS Hero. O site consiste em uma ferramenta de pequenos desafios relacionados a JavaScript. ALém disso, também tentei trabalhar em uma barra de progresso para este log, mas por enquanto não consegui entender os códigos que encontrei.
+Comecei a fazer alguns exercícios do JS Hero. O site consiste em uma ferramenta de pequenos desafios relacionados a JavaScript. Além disso, também tentei trabalhar em uma barra de progresso para este log, mas por enquanto não consegui entender os códigos que encontrei.
 
 <ul> 
   <li> https://www.jshero.net/ </li>
