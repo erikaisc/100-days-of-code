@@ -1,10 +1,16 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Erika Irina]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [November 13, Saturday, 2021].
+
+Registro do meu desafio #100DaysOfCode. Iniciado em [13 de Novembro, Sábado, 2021].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Comecei a fazer alguns exercícios do JS Hero. O site consiste em uma ferramenta de pequenos desafios relacionados a JavaScript.
+
+<ul> 
+  <li> https://www.jshero.net/ </li>
+  </ul>
 
 ### R1D2
